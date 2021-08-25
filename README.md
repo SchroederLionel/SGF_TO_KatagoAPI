@@ -1,8 +1,8 @@
 # SGF file to Json and send it to Katago
 Java Program which allows to transform SGF files into Json and send it to KataGo.
 ## Table of contents
-* [General info] (#general-info)
-* [Technologies & Requirements] (#technologies)
+* [General info](#general-info)
+* [Technologies & Requirements](#technologies)
 * [Setup](#setup)
 
 ## General info
